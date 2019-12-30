@@ -1,0 +1,12 @@
+name: EnglishFootballTable
+title: EnglishFootballTable
+username:
+account: gerardrobertkirwin
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1620647
+bundleId: 2698439
+url: https://gerardrobertkirwin.shinyapps.io/EnglishFootballTable/
+when: 1577735574.51855
+asMultiple: FALSE
+asStatic: FALSE
