@@ -56,7 +56,7 @@ server <- function(input, output) {
     
     output$LeagueChoices <- renderUI({
       table_choices <- table %>% filter(Season == input$Season)
-      checkboxGroupInput("Tier", "Choose League", choices = unique(table_choices$Tier), selected = "First Division")
+      checkboxGroupInput("Tier", "Choose Division", choices = unique(table_choices$Tier), selected = "First Division")
     })
 }
 
