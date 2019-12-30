@@ -34,7 +34,7 @@ ui <- fluidPage(
             tags$div(
               tags$p("Note:"),
               tags$p("1. Between 1946-47 and 1957-58 there are only three divisions and the third division is split between Third Division North and Third Division South,
-              the two divisions are listed together here.")
+              the two divisions are listed together here together.")
               
             )
         )
