@@ -1,0 +1,12 @@
+name: EnglishFootball
+title: EnglishFootball
+username:
+account: gerardrobertkirwin
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1627036
+bundleId: 2705611
+url: https://gerardrobertkirwin.shinyapps.io/EnglishFootball/
+when: 1578097486.13115
+asMultiple: FALSE
+asStatic: FALSE
